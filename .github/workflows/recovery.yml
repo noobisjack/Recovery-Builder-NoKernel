@@ -16,7 +16,7 @@ on:
 env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
   MANIFEST_BRANCH: fox_9.0
-  DEVICE: rosy
+  DEVICE: itel-L6006
   DT_LINK: https://github.com/twrptreegen/recovery_device_itel_itel-L6006
   DT_PATH: device/itel/itel-L6006
   TARGET: recoveryimage
